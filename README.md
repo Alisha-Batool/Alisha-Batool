@@ -69,8 +69,7 @@
 
 ## 💬 Fun Fact  
 
-“The best way to connect software with the real world? **IoT + Creativity 🚀**”
+"Debugging is like being the detective in a crime movie where **you are also the murderer. 🔍💻**"
+"IoT isn’t just about connecting devices — it’s about connecting **people, ideas, and possibilities. 🌍✨**"
 
----
 
-![snake gif](https://github.com/Alisha-Batool/Alisha-Batool/blob/output/github-contribution-grid-snake.svg)
